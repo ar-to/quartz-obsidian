@@ -9,6 +9,10 @@ Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gard
 5. Automatically generated tag and section lists of content
 6. Beautiful link previews
 
+# Tests
+[Test](Test.md)
+
+
 ## Get Started
 > 📚 [Setup your own digital garden using Quartz](notes/setup.md)
 
