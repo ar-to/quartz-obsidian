@@ -1,6 +1,6 @@
 ---
 title: "Test"
 ---
-Testing Check
+Testing Checking
 
-[Test2](Test2.md)
+[Test2](Test2.md) = yep
